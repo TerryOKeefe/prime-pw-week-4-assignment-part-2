@@ -5,9 +5,22 @@ header {
 .info {
   background-color: grey;
   color: yellow;
+  text-align: center;
+  border-radius: 40px;
+  padding: 5px;
 }
 
 h3 {
-  color: Purple;
+  color: blue;
   background-color: pink;
+  text-align: center;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
